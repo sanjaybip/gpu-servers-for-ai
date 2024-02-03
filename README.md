@@ -12,6 +12,8 @@ List of popular and emerging GPU cloud service providers for AI development like
 | Banana Dev | https://www.banana.dev/ |
 | Gradient AI| https://gradient.ai/ |
 | Lightning AI | https://lightning.ai/ |
+| Anyscale | https://www.anyscale.com/ |
+| Deep Infra | https://deepinfra.com/ |
 | Amazon Sagemaker | https://aws.amazon.com/sagemaker/ |
 | Google Vertex AI | https://cloud.google.com/vertex-ai?hl=en |
 
