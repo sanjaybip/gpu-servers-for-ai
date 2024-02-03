@@ -1,5 +1,5 @@
-# GPU servers (service providers) for AI
-List of popular and emerging GPU cloud service providers for AI development like Machine Learning or LLM app development. 
+# GPU servers (service/LLM providers) for AI
+List of popular and emerging GPU cloud service providers for AI development like Machine Learning, ML Inference or LLM app development. 
 
 | NAME | LINK |
 | ------ | ------ |
