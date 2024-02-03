@@ -6,6 +6,7 @@ List of popular and emerging GPU cloud service providers for AI development like
 | Runpod | https://www.runpod.io/ |
 | Lambdalabs | https://lambdalabs.com/ |
 | Vast AI | https://vast.ai/ |
+| Together AI | https://www.together.ai/ |
 | Brev | https://brev.dev/ |
 | Paperspace | https://www.paperspace.com/ |
 | Banana Dev | https://www.banana.dev/ |
