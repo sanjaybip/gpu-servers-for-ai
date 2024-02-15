@@ -1,5 +1,5 @@
 # GPU servers (service/LLM providers) for AI
-List of popular and emerging GPU cloud service providers for AI development like Machine Learning, ML Inference or LLM app development. 
+List of popular and emerging GPU cloud service providers for AI development like Machine Learning, LLM Inference or LLM app development. 
 
 | NAME | LINK |
 | ------ | ------ |
@@ -7,9 +7,10 @@ List of popular and emerging GPU cloud service providers for AI development like
 | Lambdalabs | https://lambdalabs.com/ |
 | Vast AI | https://vast.ai/ |
 | Together AI | https://www.together.ai/ |
+| Replicate | https://replicate.com/ |
 | Brev | https://brev.dev/ |
 | Paperspace | https://www.paperspace.com/ |
-| Banana Dev | https://www.banana.dev/ |
+| ~~Banana Dev~~ | ~~https://www.banana.dev/~~ |
 | Gradient AI| https://gradient.ai/ |
 | Lightning AI | https://lightning.ai/ |
 | Anyscale | https://www.anyscale.com/ |
