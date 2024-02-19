@@ -11,7 +11,7 @@ List of popular and emerging GPU cloud service providers for AI development like
 | Replicate | https://replicate.com/ | - |
 | Brev | https://brev.dev/ | - |
 | Paperspace | https://www.paperspace.com/ | - |
-| Modal | https://modal.com/ |
+| Modal | https://modal.com/ | - |
 | ~~Banana Dev~~ | ~~https://www.banana.dev/~~ | Depreciated |
 | Gradient AI| https://gradient.ai/ | - |
 | Lightning AI | https://lightning.ai/ | - |
