@@ -10,6 +10,7 @@ List of popular and emerging GPU cloud service providers for AI development like
 | Together AI | https://www.together.ai/ | - |
 | Replicate | https://replicate.com/ | - |
 | Brev | https://brev.dev/ | - |
+| Salad - GPU Cloud | https://salad.com/ | - |
 | Paperspace | https://www.paperspace.com/ | - |
 | Modal | https://modal.com/ | - |
 | ~~Banana Dev~~ | ~~https://www.banana.dev/~~ | Depreciated |
