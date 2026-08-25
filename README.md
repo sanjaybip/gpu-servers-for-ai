@@ -21,6 +21,7 @@ List of popular and emerging GPU cloud service providers for AI development like
 | Deep Infra | https://deepinfra.com/ | - |
 | Amazon Sagemaker | https://aws.amazon.com/sagemaker/ | - |
 | Google Vertex AI | https://cloud.google.com/vertex-ai?hl=en | - |
+| GPUVista | https://gpuvista.com/ | India-focused cloud GPU price comparison — live H100/A100/L40S hourly rates across 12+ providers |
 
 ---
 
