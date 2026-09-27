@@ -21,6 +21,7 @@ List of popular and emerging GPU cloud service providers for AI development like
 | Deep Infra | https://deepinfra.com/ | - |
 | Amazon Sagemaker | https://aws.amazon.com/sagemaker/ | - |
 | Google Vertex AI | https://cloud.google.com/vertex-ai?hl=en | - |
+| Lumino AI | https://www.luminoai.in/ | India-first GPU rental + hosted model APIs |
 
 ---
 
